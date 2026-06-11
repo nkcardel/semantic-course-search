@@ -1,0 +1,5 @@
+pandas
+pinecone-client
+sentence-transformers
+scikit-learn
+python-dotenv
